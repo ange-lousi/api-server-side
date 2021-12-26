@@ -1,0 +1,13 @@
+﻿{
+    "profiles": {
+        "WebAPIEx6": {
+            "commandName": "Project",
+            "dotnetRunMessages": "true",
+            "applicationUrl": "https://localhost:8080;http://localhost:8081",
+            "urls": "",
+            "environmentVariables": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+        }
+    }
+}
